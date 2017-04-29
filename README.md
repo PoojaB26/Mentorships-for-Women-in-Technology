@@ -2,13 +2,13 @@
 A curated list of the technical mentorships, internships specially organized for women.
 
 ## Women Only Programs
-### [Learn IT, Girl](#learnit)
+* [Learn IT, Girl](#learnit)
 International mentorship program that helps women learn a new programming language by doing an interesting project under a mentor!
 
-### [Grace Hopper Celebration India (GHCI)](#ghci)
+* [Grace Hopper Celebration India (GHCI)](#ghci)
 India's largest gathering of women technologists
 
-### [Google Women Techmakers Scholarship](#gwt)
+* [Google Women Techmakers Scholarship](#gwt)
 Google provides scholarships for the women exceling in computer science who act as active leaders and role models internationally and/or in their local communities. 
 
 ## Program Descriptions
@@ -88,7 +88,9 @@ Professional development and community outreach opportunities will continue to b
 <br>
 
 **Contact** : WTMScholars@google.com.
+
 --------------------------------
+
 ## <a name="learnit"></a> [Learn IT, Girl](https://www.learnitgirl.com)
 >"Learn IT, Girl!" outreach, is an international mentorship program developed by the 2014 Anita Borg Scholars from Romania, Poland and U.K.
 
