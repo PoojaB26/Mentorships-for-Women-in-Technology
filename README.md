@@ -31,6 +31,8 @@ The scholarship program consists of the following events :<br>
 * [North America](#wt-na)
 * [Europe, Middle East and Africa](#wt-eu)
 
+## Blogs
+* https://medium.com/@sandarumk/google-women-techmakers-scholarship-program-a-k-a-google-anita-borg-memorial-scholarship-268205821266
 
 ## Asia Pacific <a name="wt-asia"></a>
 **Deadline** : 1st May, 2017 ([Apply](https://google.onlineapplications.net/applications/default.asp?mode=select))<br><br>
@@ -81,6 +83,7 @@ Professional development and community outreach opportunities will continue to b
 * Demonstrate a strong academic record
 * Exemplify leadership and demonstrate passion for increasing the involvement of women in computer science
 
+<br>
 
 **Contact** : WTMScholars@google.com.
 --------------------------------
