@@ -106,7 +106,7 @@ Professional development and community outreach opportunities will continue to b
 
 >At Adobe, we're focused on creating engaging digital experiences to better serve consumers, digital marketers, creative professionals, developers and enterprises. We bring together the smartest, most driven individuals and give them the freedom to nurture their intellectual curiosity. We provide them with the necessary resources and support to shape their ideas into tangible results. We also believe that creating the best products requires bringing together a diverse group of people with different perspectives.
 
-##Scholarship Details
+## Scholarship Details
 
 * Internship at Adobe in 2018.
 * Collaboration and mentoring for Bachelor's of Technology Project (BTP).
@@ -115,7 +115,7 @@ Professional development and community outreach opportunities will continue to b
 * Travel to conference for one author if any paper gets accepted at a conference based on Adobe internship/BTP collaboration. Pre-approval by Adobe required.
 * An Adobe India-wide program will be arranged for felicitation of these Scholarship winners.
 
-##Eligibility Criteria
+## Eligibility Criteria
 In order to be eligible for the 2017 Adobe India Women in Technology Scholarship, applicants must meet all of the following criteria:  
 
 *  Be a female student currently enrolled at a university for the 2017-2018 academic year.
