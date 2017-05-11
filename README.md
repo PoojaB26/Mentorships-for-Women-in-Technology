@@ -11,7 +11,7 @@ India's largest gathering of women technologists
 * [Google Women Techmakers Scholarship](#gwt)
 Google provides scholarships for women exceling in computer science who act as active leaders and role models internationally and/or in their local communities. 
 
-* [Adobe India - Women In Technology Scholarship]
+* [Adobe India - Women In Technology Scholarship](#adobeindia)
 Adobe India-Women in Technology Scholarship are focused on creating, engaging digital experiences to better serve consumers, digital marketers, creative professionals, developers and enterprises. This scholarship recognises outstanding female students in the technology field.
 
 ## Program Descriptions
