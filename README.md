@@ -1,4 +1,5 @@
-# Technical Mentorships/Internships for Women in Technology
+# Technical Mentorships/Internships/Scholarships 
+## for Women in Technology
 A curated list of the technical mentorships, internships specially organized for women.
 
 ## Women Only Programs
