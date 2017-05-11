@@ -1,5 +1,4 @@
 # Technical Mentorships/Internships/Scholarships 
-## for Women in Technology
 A curated list of the technical mentorships, internships specially organized for women.
 
 ## Women Only Programs
@@ -11,6 +10,9 @@ India's largest gathering of women technologists
 
 * [Google Women Techmakers Scholarship](#gwt)
 Google provides scholarships for women exceling in computer science who act as active leaders and role models internationally and/or in their local communities. 
+
+* [Adobe India - Women In Technology Scholarship]
+Adobe India-Women in Technology Scholarship are focused on creating, engaging digital experiences to better serve consumers, digital marketers, creative professionals, developers and enterprises. This scholarship recognises outstanding female students in the technology field.
 
 ## Program Descriptions
 
@@ -97,3 +99,26 @@ Professional development and community outreach opportunities will continue to b
 
 [**Timeline**](https://www.learnitgirl.com/timeline) This year's edition took place between February 15 and May 8 <br>
 **Contact** : learnitgirl.office@gmail.com
+
+
+## <a name="adobeindia"></a> [Adobe India - Women In Technology Scholarship](http://www.adobe.com/careers/university/india-women-tech.html)
+*The following details are from previous year's event. Application for this year will open soon.
+
+>At Adobe, we're focused on creating engaging digital experiences to better serve consumers, digital marketers, creative professionals, developers and enterprises. We bring together the smartest, most driven individuals and give them the freedom to nurture their intellectual curiosity. We provide them with the necessary resources and support to shape their ideas into tangible results. We also believe that creating the best products requires bringing together a diverse group of people with different perspectives.
+
+[**Scholarship Details**]
+
+* Internship at Adobe in 2018.
+* Collaboration and mentoring for Bachelor's of Technology Project (BTP).
+* Tuition fees for the remainder of the award recipient’s B. Tech university education: 1 or 2 years.
+* Travel to Grace Hopper Conference, including participation fees.
+* Travel to conference for one author if any paper gets accepted at a conference based on Adobe internship/BTP collaboration. Pre-approval by Adobe required.
+* An Adobe India-wide program will be arranged for felicitation of these Scholarship winners.
+
+[**Eligibility Criteria**]
+In order to be eligible for the 2017 Adobe India Women in Technology Scholarship, applicants must meet all of the following criteria:  
+
+*  Be a female student currently enrolled at a university for the 2017-2018 academic year.
+*  Intend to be enrolled as a full-time student at a university for the 2018-2019 academic year.
+
+** Application details will soon be released **
