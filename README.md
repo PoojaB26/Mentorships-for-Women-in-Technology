@@ -121,4 +121,4 @@ In order to be eligible for the 2017 Adobe India Women in Technology Scholarship
 *  Be a female student currently enrolled at a university for the 2017-2018 academic year.
 *  Intend to be enrolled as a full-time student at a university for the 2018-2019 academic year.
 
-** Application details will soon be released **
+**Application details will soon be released**
