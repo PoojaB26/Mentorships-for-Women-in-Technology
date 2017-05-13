@@ -135,5 +135,22 @@ Rails Girls Summer of Code is about helping newcomers to the world of programmin
 Rails Girls Summer of Code is a not-for-profit organization that operates solely on the generous donations of sponsors, and individuals from the community.
 
 ## Application Guide 
-<i> The detailed application guide is given [here](https://railsgirlssummerofcode.org/students/application/)
+<i> The detailed application guide is given [here](https://railsgirlssummerofcode.org/students/application/) However, a brief version is given below </i>
+
+### Eligibility
+*  involved with, or have attended one or more workshops organized by communities like Rails Girls, Railsbridge, Black Girls Code, PyLadies, etc
+* people who have significantly expanded their programming skills in a study group, or independently, by working on a suitable project
+*  can spend 3 months (July to September 2017) working full-time on their Open Source project of choice.
+* who are proficient (spoken and written) in English
+* **do not** have to be a student at a University to apply, and there are certainly no degree or age limitations.
+
+### What do you need to apply?
+* Another student to pair with you, from the same city
+* Coaches to guide you, recommended to be from the same city
+* A project selected from the RGSOC list
+See the link above for more details
+
+### Contact 
+Mail at contact@rgsoc.org
+
 
