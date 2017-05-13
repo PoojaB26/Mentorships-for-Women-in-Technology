@@ -14,6 +14,9 @@ Google provides scholarships for women exceling in computer science who act as a
 * [Adobe India - Women In Technology Scholarship](#adobeindia)
 Adobe India-Women in Technology Scholarship are focused on creating, engaging digital experiences to better serve consumers, digital marketers, creative professionals, developers and enterprises. This scholarship recognises outstanding female students in the technology field.
 
+* [Rails Girls Summer of Code](#rgsoc)
+With their award-winning scholarship program they aim to foster diversity in Open Source since 2013. Selected teams receive a three-month scholarship to work on selected Open Source projects.
+
 ## Program Descriptions
 
 ## <a name="ghci"></a>[Grace Hopper Celebration India](https://ghcindia.anitaborg.org/)
@@ -122,3 +125,15 @@ In order to be eligible for the 2017 Adobe India Women in Technology Scholarship
 *  Intend to be enrolled as a full-time student at a university for the 2018-2019 academic year.
 
 **Application details will soon be released**
+
+## <a name="rgsoc"></a> [Rails Girls Summer of Code](https://railsgirlssummerofcode.org/about/)
+<i>The application for 2017 is closed. Next applications will open around Feb 2018</i>
+> Rails Girls Summer of Code is an award-winning global fellowship program aimed at bringing more diversity into Open Source. Successful applicants are paid a monthly stipend, from July to September, to work on Open Source projects of their choice.
+
+Rails Girls Summer of Code is about helping newcomers to the world of programming further expand their knowledge and skills, by contributing to a worthwhile Open Source project. The focus is not on producing highly sophisticated code, but rather participants learning transferable skills from their project work.
+
+Rails Girls Summer of Code is a not-for-profit organization that operates solely on the generous donations of sponsors, and individuals from the community.
+
+## Application Guide 
+<i> The detailed application guide is given [here](https://railsgirlssummerofcode.org/students/application/)
+
