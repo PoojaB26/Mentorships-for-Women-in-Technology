@@ -17,6 +17,9 @@ Adobe India-Women in Technology Scholarship are focused on creating, engaging di
 * [Rails Girls Summer of Code](#rgsoc)
 With their award-winning scholarship program they aim to foster diversity in Open Source since 2013. Selected teams receive a three-month scholarship to work on selected Open Source projects.
 
+* [MIT Women's Technology Program](#MITWIT)
+The MIT Women's Technology Program (WTP) is a rigorous four-week summer academic and residential experience where female high school students explore engineering through hands-on classes, labs, and team-based projects in the summer after 11th grade .
+
 ## Program Descriptions
 
 ## <a name="ghci"></a>[Grace Hopper Celebration India](https://ghcindia.anitaborg.org/)
@@ -155,6 +158,6 @@ Mail at contact@rgsoc.org
 
 
 ## <a name="MITWIT"></a>[MIT Women's Technology Program ](http://wtp.mit.edu//)
->TThe MIT Women's Technology Program (WTP) is a rigorous four-week summer academic and residential experience where female high school students explore engineering through hands-on classes, labs, and team-based projects in the summer after 11th grade .
+>The MIT Women's Technology Program (WTP) is a rigorous four-week summer academic and residential experience where female high school students explore engineering through hands-on classes, labs, and team-based projects in the summer after 11th grade .
 
 [Summer 2018: information and application will be available in November, 2017.](http://wtp.mit.edu/application.html)
