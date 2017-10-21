@@ -1,4 +1,4 @@
-# Technical Mentorships/Internships/Scholarships 
+# Technical Mentorships/Internships/Scholarships
 A curated list of the technical mentorships, internships specially organized for women.
 
 ## Women Only Programs
@@ -9,7 +9,7 @@ International mentorship program that helps women learn a new programming langua
 India's largest gathering of women technologists
 
 * [Google Women Techmakers Scholarship](#gwt)
-Google provides scholarships for women exceling in computer science who act as active leaders and role models internationally and/or in their local communities. 
+Google provides scholarships for women exceling in computer science who act as active leaders and role models internationally and/or in their local communities.
 
 * [Adobe India - Women In Technology Scholarship](#adobeindia)
 Adobe India-Women in Technology Scholarship are focused on creating, engaging digital experiences to better serve consumers, digital marketers, creative professionals, developers and enterprises. This scholarship recognises outstanding female students in the technology field.
@@ -134,7 +134,7 @@ In order to be eligible for the 2017 Adobe India Women in Technology Scholarship
 
 > Rails Girls Summer of Code is a not-for-profit organization that operates solely on the generous donations of sponsors, and individuals from the community.
 
-## Application Guide 
+## Application Guide
 <i> The detailed application guide is given [here](https://railsgirlssummerofcode.org/students/application/) However, a brief version is given below </i>
 
 ### Eligibility
@@ -150,7 +150,11 @@ In order to be eligible for the 2017 Adobe India Women in Technology Scholarship
 * A project selected from the RGSOC list
 See the link above for more details
 
-### Contact 
+### Contact
 Mail at contact@rgsoc.org
 
 
+## <a name="MITWIT"></a>[MIT Women's Technology Program ](http://wtp.mit.edu//)
+>TThe MIT Women's Technology Program (WTP) is a rigorous four-week summer academic and residential experience where female high school students explore engineering through hands-on classes, labs, and team-based projects in the summer after 11th grade .
+
+[Summer 2018: information and application will be available in November, 2017.](http://wtp.mit.edu/application.html)
