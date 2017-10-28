@@ -161,3 +161,22 @@ Mail at contact@rgsoc.org
 >The MIT Women's Technology Program (WTP) is a rigorous four-week summer academic and residential experience where female high school students explore engineering through hands-on classes, labs, and team-based projects in the summer after 11th grade .
 
 [Summer 2018: information and application will be available in November, 2017.](http://wtp.mit.edu/application.html)
+
+--------------------------------
+
+## <a name="WomenInTech"></a> [Women In Tech Scholorship](http://www.devpointlabs.com/scholarship)
+<i>Recently Awarded, however there will be another cohort in 6 months: The dates are from past Scholorship</i>
+
+### Location
+* Salt Lake City, Utah
+
+### Scholorship Details
+* Send in a full application for the prospective class: Full-Time U of U Web Development or Part-Time Web Development
+* Fill out the essay questions in the scholarship application. Tell us why you're the best candidate. Next send your recommendation letter from either a school official, employer, teacher, or member of a community organization to contact@devpointlabs.com
+* Like our Facebook page and follow us on Twitter! This is required.
+
+### Award Information
+* Awarded: 50% Off Tuition
+* Application Deadline: October 6th, 2017
+* Award Notification: Nominees will be notified by October 9th, 2017 via email
+* Nominees will be asked to attend a final interview with the selection committee
